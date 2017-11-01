@@ -9,7 +9,7 @@
 ### Links:
 * [Language TAGs - W3C](https://www.w3.org/International/articles/language-tags/)
 * [Language Subtag - IANA](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
-* [Interesting sample](https://github.com/tiimgreen/github-cheat-sheet)
+* Interesting samples: [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet), [multilanguage-readme-pattern](https://github.com/jonatasemidio/multilanguage-readme-pattern)
 * [How to create Lang Shields](https://shields.io/)
 
 
